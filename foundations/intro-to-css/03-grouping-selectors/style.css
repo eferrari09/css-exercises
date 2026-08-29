@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.Click {
+background-color: black;
+color: white;
+}
+
+.not-click {
+background-color: yellow;
+}
+
+.Click, .not-click {
+font-size: 28px;
+font-family: 'Helvetiva', 'Times New Roman', 'sans-serif';
+}
